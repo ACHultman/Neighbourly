@@ -1,2 +1,2 @@
 # Neighbourly
-A React Native application to bring people together
+Neighbourly is a React Native application made to bring people together
